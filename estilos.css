@@ -23,8 +23,7 @@ header{
     }
 
     #Home iframe{
-        border: none;
-        margin-top: 30px ;
+        
         width: 500px;
         height: 600px;               
     }
