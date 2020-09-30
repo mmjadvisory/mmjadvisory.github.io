@@ -26,5 +26,6 @@ header{
         border: none;
         margin-top: 30px ;
         width: 100px;
-        height: 600px;               
+        height: 600px; 
+        margin: 0 auto;
     }
